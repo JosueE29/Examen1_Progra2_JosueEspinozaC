@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zuper\\source\\repos\\Examen1_Progra2_JosueEspinoza\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81D7C3C9-2CAA-4C98-98F3-00A257C2D8F5}|Examen1_Progra2_JosueEspinoza\\Examen1_Progra2_JosueEspinoza.csproj|c:\\users\\zuper\\source\\repos\\examen1_progra2_josueespinoza\\examen1_progra2_josueespinoza\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D7C3C9-2CAA-4C98-98F3-00A257C2D8F5}|Examen1_Progra2_JosueEspinoza\\Examen1_Progra2_JosueEspinoza.csproj|solutionrelative:examen1_progra2_josueespinoza\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D7C3C9-2CAA-4C98-98F3-00A257C2D8F5}|Examen1_Progra2_JosueEspinoza\\Examen1_Progra2_JosueEspinoza.csproj|C:\\Users\\Zuper\\source\\repos\\Examen1_Progra2_JosueEspinoza\\examen1_progra2_josueespinoza\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D7C3C9-2CAA-4C98-98F3-00A257C2D8F5}|Examen1_Progra2_JosueEspinoza\\Examen1_Progra2_JosueEspinoza.csproj|solutionrelative:examen1_progra2_josueespinoza\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D7C3C9-2CAA-4C98-98F3-00A257C2D8F5}|Examen1_Progra2_JosueEspinoza\\Examen1_Progra2_JosueEspinoza.csproj|C:\\Users\\Zuper\\source\\repos\\Examen1_Progra2_JosueEspinoza\\examen1_progra2_josueespinoza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D7C3C9-2CAA-4C98-98F3-00A257C2D8F5}|Examen1_Progra2_JosueEspinoza\\Examen1_Progra2_JosueEspinoza.csproj|solutionrelative:examen1_progra2_josueespinoza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "menu.cs",
+              "DocumentMoniker": "C:\\Users\\Zuper\\source\\repos\\Examen1_Progra2_JosueEspinoza\\Examen1_Progra2_JosueEspinoza\\menu.cs",
+              "RelativeDocumentMoniker": "Examen1_Progra2_JosueEspinoza\\menu.cs",
+              "ToolTip": "C:\\Users\\Zuper\\source\\repos\\Examen1_Progra2_JosueEspinoza\\Examen1_Progra2_JosueEspinoza\\menu.cs",
+              "RelativeToolTip": "Examen1_Progra2_JosueEspinoza\\menu.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAA5wAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:02:42.659Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empleados.cs",
+              "DocumentMoniker": "C:\\Users\\Zuper\\source\\repos\\Examen1_Progra2_JosueEspinoza\\Examen1_Progra2_JosueEspinoza\\Empleados.cs",
+              "RelativeDocumentMoniker": "Examen1_Progra2_JosueEspinoza\\Empleados.cs",
+              "ToolTip": "C:\\Users\\Zuper\\source\\repos\\Examen1_Progra2_JosueEspinoza\\Examen1_Progra2_JosueEspinoza\\Empleados.cs",
+              "RelativeToolTip": "Examen1_Progra2_JosueEspinoza\\Empleados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T00:59:14.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zuper\\source\\repos\\Examen1_Progra2_JosueEspinoza\\Examen1_Progra2_JosueEspinoza\\Program.cs",
+              "RelativeDocumentMoniker": "Examen1_Progra2_JosueEspinoza\\Program.cs",
+              "ToolTip": "C:\\Users\\Zuper\\source\\repos\\Examen1_Progra2_JosueEspinoza\\Examen1_Progra2_JosueEspinoza\\Program.cs",
+              "RelativeToolTip": "Examen1_Progra2_JosueEspinoza\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T00:58:51.353Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

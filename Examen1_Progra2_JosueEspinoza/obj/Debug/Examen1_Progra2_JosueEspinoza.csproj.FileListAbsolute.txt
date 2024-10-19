@@ -1,0 +1,7 @@
+C:\Users\Zuper\source\repos\Examen1_Progra2_JosueEspinoza\Examen1_Progra2_JosueEspinoza\obj\Debug\Examen1_Progra2_JosueEspinoza.csproj.AssemblyReference.cache
+C:\Users\Zuper\source\repos\Examen1_Progra2_JosueEspinoza\Examen1_Progra2_JosueEspinoza\obj\Debug\Examen1_Progra2_JosueEspinoza.csproj.CoreCompileInputs.cache
+C:\Users\Zuper\source\repos\Examen1_Progra2_JosueEspinoza\Examen1_Progra2_JosueEspinoza\bin\Debug\Examen1_Progra2_JosueEspinoza.exe.config
+C:\Users\Zuper\source\repos\Examen1_Progra2_JosueEspinoza\Examen1_Progra2_JosueEspinoza\bin\Debug\Examen1_Progra2_JosueEspinoza.exe
+C:\Users\Zuper\source\repos\Examen1_Progra2_JosueEspinoza\Examen1_Progra2_JosueEspinoza\bin\Debug\Examen1_Progra2_JosueEspinoza.pdb
+C:\Users\Zuper\source\repos\Examen1_Progra2_JosueEspinoza\Examen1_Progra2_JosueEspinoza\obj\Debug\Examen1_Progra2_JosueEspinoza.exe
+C:\Users\Zuper\source\repos\Examen1_Progra2_JosueEspinoza\Examen1_Progra2_JosueEspinoza\obj\Debug\Examen1_Progra2_JosueEspinoza.pdb
